@@ -4,7 +4,7 @@
 ## About
 Aplikasi pencatatan penjualan toko sederhana dibuat dengan Laravel 7.
 Hi everybody!!
-I'm trying to learn programming and I want to become a realible Data Analyst. This is my first step to get started. I hope this will be a good fisrt step for me in the future.
+I'm trying to learn programming and I want to become a realible Data Analyst. This is my first step to get started. I hope this will be a good first step for me in the future.
 This is also to fulfill the final assignment for the Design and Systmes Analysis course.
 
 ### Screenshot
