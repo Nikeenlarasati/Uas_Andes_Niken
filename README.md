@@ -2,10 +2,10 @@
 [![Stable Laravel](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
 
 ## About
+Aplikasi pencatatan penjualan toko sederhana dibuat dengan Laravel 7.
 Hi everybody!!
 I'm trying to learn programming and I want to become a realible Data Analyst. This is my first step to get started. I hope this will be a good fisrt step for me in the future.
 This is also to fulfill the final assignment for the Design and Systmes Analysis course.
-Aplikasi pencatatan penjualan toko sederhana dibuat dengan Laravel 7.
 
 ### Screenshot
 ![Screenshot transaksi](transaksi.png)
